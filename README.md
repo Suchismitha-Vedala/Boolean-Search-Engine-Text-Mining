@@ -4,7 +4,7 @@ This project is to build a boolean search engine by performin boolean operations
 
 
 
- Run the following commands
+Run the following commands
 
 
 1.cd <folder location>
